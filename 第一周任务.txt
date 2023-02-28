@@ -1,0 +1,21 @@
+1.学习git（svn）
+    1.安装本地的git环境
+    2.学习常用的git命令   已完成
+    3.去创建一个远程代码仓库，并上传任意小demo   已完成
+
+2.去注册一个git账号
+https://gitee.com/ 《github》
+15320396738  zxcvbnm4245210
+    
+https://github.com/ <gitee>
+ZichangYang  zxcvbnm4245210
+
+3.注册CSDN账号
+
+4.明确自己学习的方向
+
+
+找资料步骤：
+	1.找官方文档
+	2.找视频
+	3.找博客
